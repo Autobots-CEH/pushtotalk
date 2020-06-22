@@ -1,7 +1,11 @@
 {
-  "name": "pushtotalk",
+  "name": "@listingslab-software/pushtotalk",
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com/"
+  },
   "version": "0.0.1",
   "description": "Public PushToTalk Package",
+  "main": "index.jsx",
   "homepage": "https://listingslab.com/pushtotalk",
   "repository": {
     "type": "git",
