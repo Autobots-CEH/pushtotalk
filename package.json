@@ -1,0 +1,16 @@
+{
+  "name": "pushtotalk",
+  "version": "0.0.1",
+  "description": "Public Package",
+  "main": "index.js",
+  "scripts": {
+    "_": "echo \"pushtotalk\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/listingslab-software/pushtotalk.git"
+  },
+  "author": "me",
+  "license": "MIT",
+  "homepage": "https://listingslab.com/pushtotalk"
+}
