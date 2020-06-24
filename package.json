@@ -1,6 +1,6 @@
 {
   "name": "@listingslab-software/pushtotalk",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "PushToTalk PWA Plugin (Github Package)",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
