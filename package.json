@@ -3,18 +3,19 @@
   "publishConfig": {
     "registry":"https://npm.pkg.github.com/"
   },
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "Public PushToTalk Package",
   "main": "index.jsx",
   "homepage": "https://listingslab.com/pushtotalk",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/listingslab-software/pushtotalk.git"
+    "url": "https://github.com/listingslab-software/pushtotalk.git"
   },
   "scripts": {
     "_": "pushtotalk",
     "start": "react-scripts start",
-    "build": "react-scripts build"
+    "build": "react-scripts build",
+    "publish": "npm publish"
   },
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
