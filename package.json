@@ -1,11 +1,11 @@
 {
   "name": "@listingslab-software/pushtotalk",
+  "version": "0.0.7",
+  "description": "PushToTalk Github Package",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
   },
-  "version": "0.0.5",
-  "description": "PushToTalk Github Package",
-  "main": "index.jsx",
+  "main": "index.js",
   "homepage": "https://listingslab.com/pushtotalk",
   "repository": {
     "type": "git",
@@ -13,32 +13,9 @@
   },
   "scripts": {
     "_": "pushtotalk",
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "package": "npm publish"
+    "pub": "npm publish"
   },
   "dependencies": {
-    "@testing-library/jest-dom": "^4.2.4",
-    "@testing-library/react": "^9.3.2",
-    "@testing-library/user-event": "^7.1.2",
-    "react": "^16.13.1",
-    "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1"
-  },
-  "eslintConfig": {
-    "extends": "react-app"
-  },
-  "browserslist": {
-    "production": [
-      ">0.2%",
-      "not dead",
-      "not op_mini all"
-    ],
-    "development": [
-      "last 1 chrome version",
-      "last 1 firefox version",
-      "last 1 safari version"
-    ]
   },
   "license": "MIT"
 }

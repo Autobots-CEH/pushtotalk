@@ -3,8 +3,7 @@
 
 #### Reach out with accuracy
 
-
-What's the problem? Why solve it and how? Website contact forms have always been crap. This was solved for the most part by apps like Facebook Messenger, offering simpler, more personal, and more fun ways of connecting customers with business owners
+What's the problem? Website contact forms have always been crap. Why solve it again? This was solved for the most part by apps like Facebook Messenger, offering simpler, more personal, and more fun ways of connecting customers with business owners
 
 There are some very real downsides to running your Customer Service on Social Media, even though it's easy. First of all control.
 
