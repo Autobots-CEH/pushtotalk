@@ -3,8 +3,8 @@
   "publishConfig": {
     "registry":"https://npm.pkg.github.com/"
   },
-  "version": "0.0.3",
-  "description": "Public PushToTalk Package",
+  "version": "0.0.4",
+  "description": "PushToTalk Github Package",
   "main": "index.jsx",
   "homepage": "https://listingslab.com/pushtotalk",
   "repository": {
