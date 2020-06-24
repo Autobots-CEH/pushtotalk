@@ -1,7 +1,7 @@
 {
   "name": "@listingslab-software/pushtotalk",
   "publishConfig": {
-    "registry":"https://npm.pkg.github.com/"
+    "registry": "https://npm.pkg.github.com/"
   },
   "version": "0.0.4",
   "description": "PushToTalk Github Package",
@@ -15,7 +15,7 @@
     "_": "pushtotalk",
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "publish": "npm publish"
+    "package": "npm publish"
   },
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
