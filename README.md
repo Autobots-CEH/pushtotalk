@@ -10,9 +10,10 @@ There are some very real downsides to running your Customer Service on Social Me
 #### Use
 
 ```javascript
+
       <PushToTalk options={{
-        appName: `whitelabel-pwa`,
-        api: `https://us-central1-listingslab-production.cloudfunctions.net/api`,
+        api: `https://api.listingslab.com`,
         apiKey:`643464ff-531d-4686-af83-4480b1953bd5`,
       }}/>
+
 ```
