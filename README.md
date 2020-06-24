@@ -7,7 +7,7 @@ What's the problem? Website contact forms have always been crap. Why solve it ag
 
 There are some very real downsides to running your Customer Service on Social Media, even though it's easy. First of all control.
 
-#### Use
+#### How to use
 
 ```javascript
 
