@@ -1,2 +1,2 @@
-import PushToTalk from './PushToTalk'
-export default { PushToTalk }
+import PushToTalk from './src/PushToTalk'
+export default  PushToTalk

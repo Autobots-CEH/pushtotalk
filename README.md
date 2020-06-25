@@ -1,7 +1,7 @@
 
 ## Push To Talk PWA Plugin
 
-### Reach out with accuracy
+#### Reach out with accuracy
 
 Website contact forms have always been crap. This was solved for the 
 most part by apps like Facebook Messenger, offering simpler, more personal, 
@@ -13,12 +13,12 @@ First of all control. You're giving it away.
 Not to mention the 95% of the data you don't care about. 
 And to whom? What do you owe them?
 
-#### Requirements
+##### Requirements
 
 This is currently a React Component designed to be used as a plugin in an 
 Open Source Progressive Web App project called [Whitelabel PWA](https://github.com/listingslab-software/whitelabel-pwa)
 
-#### Install and use
+##### Install and use
 
 > * apiKey is not currently required, but that will change
 
