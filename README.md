@@ -1,6 +1,10 @@
 
 ## Push To Talk PWA Plugin
 
+```
+ln -s /Users/listingslab/Desktop/Node/pushtotalk /Users/listingslab/Desktop/Node/weizang/src/PushToTalk
+```
+
 #### Reach out with accuracy
 
 Website contact forms have always been crap. This was solved for the 
